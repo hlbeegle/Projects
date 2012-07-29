@@ -1,0 +1,1642 @@
+{
+   "user":{
+      "url":"http://www.ravelry.com/people/babyknitcrochet",
+      "name":"babyknitcrochet"
+   },
+   "projects":[
+      {
+         "notes":"<p>Need 19.5&#8221; circumference hat pattern</p>",
+         "started":null,
+         "permalink":"hat-for-toddler",
+         "status":"in-progress",
+         "progress":0,
+         "happiness":null,
+         "favorited":0,
+         "pattern":null,
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Hat for toddler",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/hat-for-toddler",
+         "madeFor":null,
+         "thumbnail":null
+      },
+      {
+         "notes":"<p>Long tail cast-on - 26 stitches. <br />First row knit. <br />Stockinette. <br />Purl wise bind off on right side. <br />Yarn held double.</p>\n\n<p>RESULTS: <br />size 6: 21.5-22 St/4&#8221; <br />size 7: 20 St/4&#8221; <br />size 8: 19 St/4&#8221;</p>\n\n<p>Picture 1: size 6 <br />Picture 2: size 7 <br />Picture 3: size 8</p>",
+         "started":"2011-09-25",
+         "permalink":"hka-sock-held-double---swatches",
+         "status":"in-progress",
+         "progress":0,
+         "happiness":4,
+         "favorited":0,
+         "pattern":null,
+         "completed":null,
+         "needles":[
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            },
+            {
+               "metric":4.5,
+               "us":"7 ",
+               "name":"US 7  - 4.5 mm"
+            },
+            {
+               "metric":5.0,
+               "us":"8 ",
+               "name":"US 8  - 5.0 mm"
+            }
+         ],
+         "comments":0,
+         "size":"app. 4 inches",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"HKA sock held double - swatches",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/hka-sock-held-double---swatches",
+         "madeFor":"reference",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75935977/IMG_20110929_081349_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75935977/IMG_20110929_081349_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>I&#8217;ll attempt to look up my notes on this later, but in all likelihood, I&#8217;ll forget.</p>\n\n<p>I made them on DPNs. I added an eyelet row to help secure the mitts.</p>\n\n<p>Designed for a friend&#8217;s 2nd baby who had cold hands in the night, but was too old for regular baby mitts.</p>",
+         "started":"2011-06-01",
+         "permalink":"baby-mitts",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":null,
+         "completed":"2011-06-01",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Baby Mitts",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/baby-mitts",
+         "madeFor":"gift",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75560755/Baby_mitts_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75560755/Baby_mitts_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>I will probably use just 2 of the 3 skeins, but I do want to make the cap longer to cover the ears.</p>\n\n<p>The yarn was on sale for 30% off if you bought three of the same type/color; so I&#8217;m sure I can use it for another project.</p>\n\n<p>Back on Wednesday October 20th, I actually finished the knitting. It looked great, BUT I rushed to finish the top and did not weave in the yarn correctly. It was a mess. I tried to back it out and lost stitches, then I ripped out more to where I joined the 2nd ball of yarn&#8230;. then I attempted to pick up 100 stitches with a circular needle, but I managed not to get them from the same row&#8230; I&#8217;m considering completely ripping it out and giving up on the project. I have several other items where I need to make progress.</p>\n\n<p>November 2, 2010 <br />The hat may be saved due to the kindness of a woman working at Bobbin&#8217;s Nest. She showed me how to carefully pick up the stitches with a smaller needle. (And the best part was that she had me do most of it after she showed me how!) We didn&#8217;t even rip much farther than the damage I did the other day in frustration and desperation. I have 5 1/2&#8221;. I just need 6 1/2&#8221; before starting the decreases. I&#8217;m definitely happy! (This time I&#8217;ll switch to DPNs sooner than the last time. )</p>\n\n<p>November 4, 2010 <br />It is late in the night and almost the 5th of November. I have almost finished the hat. I&#8217;m down to 5 stitches on 2 DPNs. However, I&#8217;m not sure _how_ to weave in the last of the yarn to the 5 stitches and make it look nice&#8230; should it be kitchener or 3 needle bind off or ??? This is the point at which I damaged and had to undo all of the decreases and another inch of the ribbing.</p>\n\n<p>While I officially completed this hat (weaving in the ends, etc) on Saturday, November 13, 2010, I actually had the rest of it done for a while. I just kept delaying weaving in the ends.</p>",
+         "started":"2010-10-03",
+         "permalink":"a-hat-fit-for-a-boyfriend",
+         "status":"finished",
+         "progress":100,
+         "happiness":4,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/stephanie-nicole",
+               "name":"Stephanie Nicole"
+            },
+            "url":"http://www.ravelry.com/patterns/library/a-hat-fit-for-a-boyfriend",
+            "name":"A Hat Fit for a Boyfriend"
+         },
+         "completed":"2010-11-13",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Karabella Yarns",
+               "name":"Aurora 8",
+               "url":"http://www.ravelry.com/yarns/library/karabella-aurora-8"
+            }
+         ],
+         "name":"Basic Ribbed Cap for a Man",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/a-hat-fit-for-a-boyfriend",
+         "madeFor":"My Husband",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/45295905/mens_cap_finished_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/45295905/mens_cap_finished_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Update December 21, 2010</p>\n\n<p>A few nights ago, I made a mistake in the cable (and luckily only had to undo one repeat of the current row). However, I don&#8217;t know whether it is my lack of cabling experience or the variations in dark yarn color that are causing me issues. I&#8217;ve decided to set it aside for now until I can decide whether to rip it out (and use the yarn for something else) or continue it at a more relaxed pace. I like the pattern and would try to do it in a different yarn if I choose to abandon this version of it.</p>\n\n<p>November 29, 2010</p>\n\n<p>I cast-on last night (for the 2nd time). I&#8217;m now through the ribbing and starting the main pattern. This is the first major cabling project I&#8217;ve attempted. I did opt to do a knit cast-on rather than long-tail (purlwise and knitwise). So far I&#8217;m happy with the progress, but I am wondering if I&#8217;ll finish it in time to give as a gift. (I also want to start and work on the Mila Beret as a gift to go with the Welted Fingerless Gloves)</p>\n\n<p>November 30, 2010</p>\n\n<p>After this morning&#8217;s session, I finished through round 8 of the main pattern. I did one pattern of round 9, just so that the marker will stay on the needle. It looks great, but it is alot of work (for someone who hasn&#8217;t really done cables). I&#8217;m trying to make sure that I accomplish 3 rounds of the main pattern every day. If I am successful in that goal, I should finish it in time.</p>\n\n<p>December 3, 2010</p>\n\n<p>Last night I made it through round 16 of the main pattern. On both rounds 15 and 16, I ended up with an extra stitch at the end&#8230; (99.999% chance it is my fault) so I k2tog at the end of Round 16. I finally needed to take a break; so I started working more on the Mila Beret last night. I think I&#8217;ll take a couple days off, and then go back to the cabling. I started using the chart, but I need to find a better way to not get distracted from the pattern. (I&#8217;m already using a post-it note above and below the current line to help prevent confusion. ) I&#8217;ll try to update the pictures later.</p>",
+         "started":"2010-11-28",
+         "permalink":"autumn-vines-beret",
+         "status":"hibernating",
+         "progress":25,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/alana-dakos",
+               "name":"Alana Dakos"
+            },
+            "url":"http://www.ravelry.com/patterns/library/autumn-vines-beret",
+            "name":"Autumn Vines Beret"
+         },
+         "completed":null,
+         "needles":[
+            {
+               "metric":3.75,
+               "us":"5 ",
+               "name":"US 5  - 3.75 mm"
+            }
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Three Irish Girls",
+               "name":"Finley Fingering",
+               "url":"http://www.ravelry.com/yarns/library/three-irish-girls-finley-fingering"
+            }
+         ],
+         "name":"Autumn Vines Beret in Blue",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/autumn-vines-beret",
+         "madeFor":"?",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46690218/Autumn_Vines_12_2_10_a_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46690218/Autumn_Vines_12_2_10_a_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Note: The ends were woven in on February 2, 2011. I am considering this project to be completed, but at a later time I will add buttons or clasps. The coloring of the yarn and how it knits up&#8230; is much nicer than what I captured in the photo. Photos are pre-blocking.</p>\n\n<p>January 12, 2011 <br />I&#8217;ve been working a few days on it. I feel like I&#8217;m not making much progress. It is my first sweater. I&#8217;m going to see about switching from wood circulars to steel circulars and see if that speeds up my progress. (I feel like the yarn is sticking to the wood needles and it&#8217;s a major fight to get the stitches off.)</p>\n\n<p>January 14, 2011 <br />Last night I made it to the halfway point. Yea!!!!</p>\n\n<p>After the naptime I had made it to almost the center 90 section. But I&#8217;m almost out of yarn. Correction&#8230; I&#8217;m almost finished the one skein; so now I&#8217;m trying to decide if it is better to switch before the center 90 rows&#8230;</p>\n\n<p>January 17, 2011 <br />Last night I made it up to the cast-off. I was tired; so I waited until this morning to do a purl-wise bind off. I&#8217;m quite happy with the results. I&#8217;ve already woven in the tails other than the cast-on since I need to sew up the shoulders. Buttons will need to be added, but I want to take time to pick out 5 really nice buttons.</p>\n\n<p>February 2, 2011</p>\n\n<p>I started with 200 inches for the tail of the cast on, and I ended up having 86&#8221; leftover. After sewing up the first shoulder seam and weaving in the end, I had 60&#8221; left. After the second shoulder I had about 12&#8221; left, but it broke as I was weaving in the ends. However, I think I have it woven in enough that it should not be an issue. I did opt to have the elevated part of the seam to the outside of the jacket. I think it looks fine either way, but I prefer the baby to be comfortable. I used the method in <a href=\"http://www.yarnharlot.ca/blog/archives/2007/07/11/surprise.html\">http://www.yarnharlot.ca/blog/archives/2007/07/11/surpris...</a> (Found it through the BSJ wiki on ravelry). Though I then opted to use the opposite side as the outside.</p>\n\n<p>Notes: I should have picked up the stitches the opposite way on the second row (as I suspected, but didn&#8217;t do); so the front is not identical. However, it&#8217;s a really nice sweater. I also somehow missed the last increases before the center 90; so on the first row of that I did 4 increases after 4 stitches, 8 stitches, and then identically from the other edge. Less than 2 full skeins were used. I&#8217;ll measure and update the yardage later. I hope to make another one (or maybe the child size); so that I can write up the directions in an easier to read pattern or just buy it from Schoolhouse Press. Of course I need to get the yarn for it&#8230;</p>",
+         "started":"2011-01-09",
+         "permalink":"baby-surprise-jacket",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/elizabeth-zimmermann",
+               "name":"Elizabeth Zimmermann"
+            },
+            "url":"http://www.ravelry.com/patterns/library/baby-surprise-jacket",
+            "name":"Baby Surprise Jacket"
+         },
+         "completed":"2011-02-02",
+         "needles":[
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            }
+         ],
+         "comments":1,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"madelinetosh",
+               "name":"tosh merino",
+               "url":"http://www.ravelry.com/yarns/library/madelinetosh-tosh-merino"
+            }
+         ],
+         "name":"Gender Neutral - BSJ",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/baby-surprise-jacket",
+         "madeFor":"future baby?",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53122630/BabySurpriseJacket_Final_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53122630/BabySurpriseJacket_Final_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Attempted to make a newborn size version of the BSJ by using fingering weight yarn. I still think it is a little large for a newborn, but that depends on the size of the newborn&#8230;</p>\n\n<p>Buttons purchased online at Schoolhouse Press.</p>\n\n<p>Started new skeins of Wheatberry and Violeta. Used leftover yarn from Jay Blue skein.</p>\n\n<p>It still needs washed and blocked.</p>\n\n<p>I took a more relaxed approach to knitting this sweater, but next time I would go back to obsessively counting every row&#8230; I did have to sew on the buttons with regular thread. I absolutely would continue putting buttonholes on both sides simply to make it easier to line up the buttons.</p>",
+         "started":"2011-09-01",
+         "permalink":"baby-surprise-jacket-2",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/elizabeth-zimmermann",
+               "name":"Elizabeth Zimmermann"
+            },
+            "url":"http://www.ravelry.com/patterns/library/baby-surprise-jacket",
+            "name":"Baby Surprise Jacket"
+         },
+         "completed":"2011-09-25",
+         "needles":[
+            {
+               "metric":3.5,
+               "us":"4 ",
+               "name":"US 4  - 3.5 mm"
+            },
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            }
+         ],
+         "comments":0,
+         "size":"Newborn",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            },
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            },
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Newborn Baby Surprise Jacket",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/baby-surprise-jacket-2",
+         "madeFor":"Baby #3, Winter baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75555439/Front_BSJ_newborn_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75555439/Front_BSJ_newborn_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Picture taken February 4, 2011.</p>\n\n<p>January 9 - 26, 2011: This project is on hold as I start the Zimmermann Baby Surprise Jacket and Twinkle Baby Sweater.</p>\n\n<p>January 30-Feb. 2, 2011: On hold while Baby Twinkle Sweater completed.</p>\n\n<p>I bought one skein of the yarn, and I&#8217;m using the leftover of the same yarn from my stash to make a pair of socks for myself.</p>\n\n<p>I am using DPNs. I think I need to get a set of 6&#8221; DPNs, the smaller and larger ones are both a bit annoying.</p>\n\n<p>I&#8217;m knitting these socks at the same time. (One from the center pull, and one from the outside yarn. ) I am guessing that it will be around the toe of the socks that I will switch to my stash yarn. It took a while to be comfortable with have two socks coming from the same skein of yarn at the same time. As of January 3, 2011, I have about 5&#8221; of the cuff done on one sock, and 6&#8221; of the cuff on the other sock. I decided to do all 8&#8221; of the cuff. I also decided to do the whole cuff in K2, P2. I&#8217;m glad I started the socks at the same time, otherwise I&#8217;m pretty sure that the second one would never be completed.</p>\n\n<p>Why did I choose to do 8&#8221; of ribbing (total 16&#8221; ribbing) ? I want a better fit to the socks. This is my first pair, and I really want to be happy with them.</p>\n\n<p>I am using removable markers to mark every 5 rounds; so that I am matching up the socks as I go.</p>\n\n<p>January 5, 2011 <br />At the end of this morning&#8217;s knitting session, I have 7&#8221; on one sock and 6&#8221; on the other sock. I&#8217;m starting to get worried that there will not be enough yarn in this skein plus my leftover to complete the socks. However, I don&#8217;t want to overreact and buy more of the same color. Maybe I&#8217;ll just do the toe sections out of the leftover Wool Candy Biscotti Merino in Robin&#8217;s Egg that is in my stash.</p>\n\n<p>January 6, 2011 <br />Last night I had a bit of an issue&#8230; all of the DPNs were taken out of the cuff. (Not a yarn or needle issue&#8230; ) I managed to save it. This morning I had finished 8&#8221; of ribbed cuff on both socks. I have now started the heel flap (my first) on one sock.</p>\n\n<p>January 7, 2011 <br />This morning, I finished the heel of the first sock and did one round of the foot. I&#8217;m inquiring on the forum if I did the pickup correctly, before I start the heel of the second sock.</p>\n\n<p>January 9, 2011 <br />I spent the past two days making the thte 2nd heel flap and turning the heel. At which point I realized that I had a major mistake in the first heel that I had finished through the gusset. I had suspected it since it looked like a better fit for my toddler than me, but since it was my first I just went along with it. So&#8230; I ripped it back to the end of the cuff and restarted the heel flap&#8230; Now I have 1 sock completed finished through the gusset. The other sock is finished through the turn of the heel, and I&#8217;m working on the gusset. But it did give me the opportunity to pick up an extra stitch to eliminate the small hole. :)</p>\n\n<p>January 26, 2011</p>\n\n<p>I&#8217;m now back to my socks. :) Last night I finished the heel gusset on the 2nd pair of socks. I&#8217;ve now started the foot section. I&#8217;m finding my new tool (row counter) to be quite useful. It&#8217;s freeing me from pens/pencils/paper and using removable markers on the socks. No new pictures. I need to make some progress first.</p>\n\n<p>February 2, 2011</p>\n\n<p>I intend to start knitting these again. The first sock was completely finished just before January 30th. I&#8217;m now at row 32 out of 47 rows for the foot. I will try the &#8220;alternative&#8221; closure of the toe on this sock. I will need to redo the closure (attempted and failed Kitchener) on the first sock. I found out I am allergic/extremely sensitive to this wool (at least on my feet); so they are now being made for my mom.</p>\n\n<p>February 4, 2011</p>\n\n<p>I have completed the 2nd sock up to the point where I need to decide how to close it off. I&#8217;ll now set it aside until this weekend when I learn the Kitchener stitch. I do need to back out the toe end of the first sock where I tried and failed to do the Kitchener. I&#8217;m really very happy. I&#8217;ll also need to pick up an appropriate sized sock blocker and wash them. On the 2nd sock, I did need to switch yarn on the 47th round of the foot section.</p>\n\n<p>Finished by June 12&#8230; simply because I did not weave in the ends until then&#8230;</p>",
+         "started":"2010-12-28",
+         "permalink":"basic-sock",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":1,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/churchmouse-yarns-and-teas",
+               "name":"Churchmouse Yarns and Teas"
+            },
+            "url":"http://www.ravelry.com/patterns/library/basic-sock-3",
+            "name":"Basic Sock"
+         },
+         "completed":"2011-06-12",
+         "needles":[
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":1,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Wool Candy",
+               "name":"Biscotti Merino ",
+               "url":"http://www.ravelry.com/yarns/library/wool-candy-biscotti-merino"
+            }
+         ],
+         "name":"First pair of socks",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/basic-sock",
+         "madeFor":"My Mom",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75558554/Socks_for_mom_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75558554/Socks_for_mom_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Pattern is in Interweave Knits, Fall 2010 (pg 24)</p>\n\n<p>December 3, 2010 <br />I have not yet cast on the project. I am intending to make this for myself. I am hopeful that it will (successfully) teach me how to pick up stitches along the side.</p>",
+         "started":"2010-12-04",
+         "permalink":"brattleboro-hat",
+         "status":"hibernating",
+         "progress":5,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-labarre",
+               "name":"Melissa LaBarre"
+            },
+            "url":"http://www.ravelry.com/patterns/library/brattleboro-hat",
+            "name":"Brattleboro Hat"
+         },
+         "completed":null,
+         "needles":[
+            {
+               "metric":5.0,
+               "us":"8 ",
+               "name":"US 8  - 5.0 mm"
+            }
+         ],
+         "comments":1,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Three Irish Girls",
+               "name":"Springvale Super Merino",
+               "url":"http://www.ravelry.com/yarns/library/three-irish-girls-springvale-super-merino"
+            }
+         ],
+         "name":"Brattleboro Hat - Possible Underscarf ",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/brattleboro-hat",
+         "madeFor":"myself",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46879005/Brattleboro_Hat_Brim_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46879005/Brattleboro_Hat_Brim_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Yarn: HazelFing2 Color: Violeta Source: Bobbin&#8217;s Nest</p>\n\n<p>Cost of Pattern: $7 <br />Cost of Yarn: $20.70 + tax <br />Cost of Needles: $</p>\n\n<p>Skill(s) Learned: Cable cast-on</p>\n\n<p>October 10th - I was up to the 7th row, but made a mistake somewhere in row 6. Since I&#8217;m not used to lace, I opted to rip it all out.</p>\n\n<p>October 11 - I cast on again yesterday, but to longer needles. They are a bit annoying since I have to put it under my arm. By the end of my morning session, I managed to get through row 5. The lace begins next. This time I&#8217;ve added additional markers; so I have a chance to check my work for mistakes before I get too far along. Hope this helps. :)</p>\n\n<p>February 2, 2011 - When organizing my yarn stash and projects, I saw that it had slipped off the needles. I opted to just rip it for now and restart later. I honestly don&#8217;t know where I was when I stopped.</p>",
+         "started":"2010-10-03",
+         "permalink":"buttoned-lace-cowl",
+         "status":"hibernating",
+         "progress":5,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/grace-akhrem",
+               "name":"Grace Akhrem"
+            },
+            "url":"http://www.ravelry.com/patterns/library/buttoned-lace-cowl",
+            "name":"Buttoned Lace Cowl"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Huckleberry Knits",
+               "name":"Hazelnut fingering",
+               "url":"http://www.ravelry.com/yarns/library/huckleberry-knits-hazelnut-fingering"
+            }
+         ],
+         "name":"Buttoned Cowl",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/buttoned-lace-cowl",
+         "madeFor":"Myself",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41752281/Buttoned_Cowl_yarn_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41752281/Buttoned_Cowl_yarn_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>It was a challenge, but I finally completed my first pair of baby booties. Hopefully it won&#8217;t be as challenging next time. I definitely want to use the pattern again.</p>\n\n<p>This project was done sometime in May 2011. I didn&#8217;t write down the exact dates.</p>",
+         "started":"2011-05-01",
+         "permalink":"christines-stay-on-baby-booties",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/christine-bourquin",
+               "name":"Christine Bourquin"
+            },
+            "url":"http://www.ravelry.com/patterns/library/christines-stay-on-baby-booties",
+            "name":"Christine's Stay-On Baby Booties"
+         },
+         "completed":"2011-05-01",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"The first ever pair of booties",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/christines-stay-on-baby-booties",
+         "madeFor":"future baby?",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75559942/Baby_Booties_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75559942/Baby_Booties_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Note: These photos were taken on February 2, 2011. This is the day that the ends were _finally_ woven in. These photos are pre-wash and blocking.</p>\n\n<p>Overall impression: I really enjoyed working with the yarn. The lace pattern is nice. It&#8217;s great to have a completely separate thumb on the gloves. Unlike other people who completed the pattern, I don&#8217;t care for how it was written. Would I do another one from the same designer? Absolutely yes. I love the actual designs. But I would probably rewrite it first or figure out an easier way to check for errata.</p>\n\n<p>December 26, 2010</p>\n\n<p>Trying to finish the second glove. I had a break of a few days where I needed motivated to really start the 2nd one&#8230;. buying yarn for another project and trying not to start it until this project is finished gave me a push.</p>\n\n<p>December 27, 2010</p>\n\n<p>I actually finished the knitting and casting off on both gloves last night. I&#8217;m still not happy with how the &#8220;picking up&#8221; of stitches went on both hands&#8230; it&#8217;s a skill I need to learn. I&#8217;m now at the point where I need to weave in the ends&#8230; I&#8217;ll try not to delay it for a long time (like other projects).</p>",
+         "started":"2010-12-19",
+         "permalink":"cloverleaf-lace-mitts",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/anne-hanson",
+               "name":"Anne Hanson"
+            },
+            "url":"http://www.ravelry.com/patterns/library/cloverleaf-lace-mitts",
+            "name":"Cloverleaf Lace Mitts"
+         },
+         "completed":"2011-02-02",
+         "needles":[
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Wool Candy",
+               "name":"Eclair Silk Sock",
+               "url":"http://www.ravelry.com/yarns/library/wool-candy-eclair-silk-sock"
+            }
+         ],
+         "name":"Cloverleaf Lace Fingerless Gloves",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/cloverleaf-lace-mitts",
+         "madeFor":"Myself",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53123706/CloverleafLaceGloves_F2_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53123706/CloverleafLaceGloves_F2_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>I had intended to make this blanket as a gift, but due to health reasons plus not like the yarn, I have set it aside indefinitely.</p>",
+         "started":null,
+         "permalink":"cradle-me",
+         "status":"hibernating",
+         "progress":0,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/anne-hanson",
+               "name":"Anne Hanson"
+            },
+            "url":"http://www.ravelry.com/patterns/library/cradle-me",
+            "name":"Cradle Me"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Is it possible? Baby Blanket",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/cradle-me",
+         "madeFor":"gift",
+         "thumbnail":null
+      },
+      {
+         "notes":"<p>I bought this pattern online on October 1st 2010. <br />Yarn: Pigeonroof Studios Siren Two Lace <br />Source: Bobbin&#8217;s Nest</p>\n\n<p>Cost of Pattern: $6.95 <br />Yarn: $ 17.50 <em>3 + tax <br />Needles: $</em></p>\n\n<p>I actually only need 2 rather than 3 skeins. I want to make the wrap instead of the scarf (1 skein). There was a sale; so I picked up 3 skeins. Maybe I&#8217;ll use the extra to make matching accessories.</p>",
+         "started":"2010-10-01",
+         "permalink":"easy-lace-scarves-and-wraps",
+         "status":"hibernating",
+         "progress":0,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/bev-galeskas",
+               "name":"Bev Galeskas"
+            },
+            "url":"http://www.ravelry.com/patterns/library/easy-lace-scarves-and-wraps",
+            "name":"Easy Lace Scarves and Wraps"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Pigeonroof Studios",
+               "name":"Siren Two Lace",
+               "url":"http://www.ravelry.com/yarns/library/pigeonroof-studios-siren-two-lace"
+            }
+         ],
+         "name":"Lace Shawl",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/easy-lace-scarves-and-wraps",
+         "madeFor":"Myself",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41752385/Lace_Shawl_yarn_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41752385/Lace_Shawl_yarn_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Pattern in 0-3 months is FREE. DK Gauge 22 stitches / 4 inches stockinette.</p>\n\n<p>Using a BSJ trick of putting buttonholes on both sides to make my life easier when adding the buttons.</p>\n\n<p>October 5 - at 6&#8221; from top of back neck. Need to knit/purl 2&#8221; more. Thinking of increasing center back by 5 or 10 stitches to add ease for the cloth diapers and longies&#8230;. Must decide before continuing. At this point there are only two buttonholes.</p>\n\n<p>Body finished at 104 grams. Only 28 grams left to be able to do sleeves. Slightly worried.</p>\n\n<p>Decided to do a &#8220;baseball&#8221; raglan cardigan. The wheatberry really draws out te lighter side of Blueberry. It had been looking a bit dark for a newborn.</p>\n\n<p>Switched to u.s. 5 dpns for sleeves and decreased 4 stitches. Only went to 10.5 cm before starting garter border.</p>",
+         "started":"2011-09-29",
+         "permalink":"felixs-cardigan",
+         "status":"in-progress",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/jacki-kelly",
+               "name":"Jacki Kelly"
+            },
+            "url":"http://www.ravelry.com/patterns/library/felixs-cardigan",
+            "name":"Felix's Cardigan"
+         },
+         "completed":"2011-10-26",
+         "needles":[
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            },
+            {
+               "metric":3.75,
+               "us":"5 ",
+               "name":"US 5  - 3.75 mm"
+            }
+         ],
+         "comments":0,
+         "size":"Newborn",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            },
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Basic Cardigan (holding double)",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/felixs-cardigan",
+         "madeFor":"Baby #3",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76915736/IMG_20111008_154115_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76915736/IMG_20111008_154115_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Professional Finishing Techniques class</p>\n\n<p>Not sure if I&#8217;ll ever get to this sweater since I had to drop the class for health reasons.</p>\n\n<p>Note from pattern page: <br />To make mirroring cables, use the following rows for the RIGHT FRONT side:</p>\n\n<p>Row 3: K2, P3, K3, P2, K2, c4f, P2, K10 (12, 16, 20, 22) <br />Row 4: as row 2 <br />Row 5: K2, P3, K3, P2, c4f, K2, P2, K10 (12, 16, 20, 22) <br />Row 6: as row 2</p>",
+         "started":null,
+         "permalink":"hallows-cardigan",
+         "status":"hibernating",
+         "progress":0,
+         "happiness":1,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-metzbower",
+               "name":"Melissa Metzbower"
+            },
+            "url":"http://www.ravelry.com/patterns/library/hallows-cardigan",
+            "name":"Hallows Cardigan"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Toddler Cardigan for PFT class",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/hallows-cardigan",
+         "madeFor":"My Toddler",
+         "thumbnail":null
+      },
+      {
+         "notes":"<p>Note: The first photo is as it is being blocked. I tried it on after it finished drying, and it is now _super_ slouchy. The second photo is before it was washed and blocked.</p>\n\n<h2 id='i_ended_up_with_very_tiny_ends_showing_after_washing_it_by_machine_ill_need_to_go_back_and_weavetrim_those'>I ended up with very tiny ends showing after washing it (by machine). I&#8217;ll need to go back and weave/trim those.</h2>\n\n<p>I had intended to use the same yarn as the Welted Fingerless Gloves, but I used too much for the gloves. Instead I chose (with alot of help) a coordinating yarn for the Mila Beret. For personal reasons, I was unable to attend the class; so I just bought the pattern on Saturday, November 27, 2010. I hope to cast on shortly, and work it the same time as the Autumn Vines Beret.</p>\n\n<p>December 3, 2010</p>\n\n<p>I&#8217;ve been working on this hat for a few days (limited knitting time and other projects). I finished the inch of ribbing, and I&#8217;m finished the first 6 rounds of the pattern. I&#8217;ll try to update the photos later.</p>\n\n<p>December 5, 2010 <br />I counted the stitches after round 7.. it was off by 4. :( I did round 8 to see how bad it was going to look&#8230; At this point, I think I&#8217;ll need to find time to rip back to the ribbing. I&#8217;d rather do that now and learn from my mistake than continue to propagate the error. (Considering I&#8217;m really at the beginning of the lace part rather than almost finished.)</p>\n\n<p>December 6, 2010 <br />Tonight I ripped back to the ribbing and picked up all 120 stitches. Yea! Of course as I did the next round I had to untwist some of the stitches, but that&#8217;s alright. :) After the ribbing ended, I made it three more rounds (plus the first pattern of the next round). Of course, this time I am counting and recounting my stitches before moving on&#8230; (maybe I&#8217;ve learned my lesson? nahhhh.. ;) )</p>\n\n<p>December 7, 2010 <br />After this morning&#8217;s knitting session, I finished 7 rounds after the ribbing. (Round 6 of pattern) It took me longer, because I made a mistake twice with how many K3tog I needed to do&#8230; I backed out of it and dropped a couple of stitches in the process&#8230; I am happy to say that I properly picked up the stitches and continued. All is well on the stitch count.</p>\n\n<p>Late night/early December 8, 2010 <br />I&#8217;ve now finished 23 rows past the ribbing. It really is starting to look nice.</p>\n\n<p>Late night on December 8, 2010 <br />I did not feel up to doing much knitting tonight. Hopefully I&#8217;ll feel better in the morning. I&#8217;m going to change the progress to a countdown of how many rounds left&#8230;. 32.</p>\n\n<p>Late night December 9, 2010 <br />I only have 20 more rounds to complete. The design looks great. I&#8217;m really happy with how it looks. Some of those rounds are decreases to close off the beret; so&#8230; I&#8217;m getting close. :)</p>\n\n<p>I completed the beret on the night of December 10, 2010. I still need to wash and block it, but it is finished. I am hoping that the blocking will expand the beret further. It currently is not really slouchy (on my head).</p>",
+         "started":"2010-11-29",
+         "permalink":"mila",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/jordana-paige",
+               "name":"Jordana Paige"
+            },
+            "url":"http://www.ravelry.com/patterns/library/mila-2",
+            "name":"Mila"
+         },
+         "completed":"2010-12-10",
+         "needles":[
+            {
+               "metric":3.5,
+               "us":"4 ",
+               "name":"US 4  - 3.5 mm"
+            },
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            }
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Wool Candy",
+               "name":"Biscotti Merino ",
+               "url":"http://www.ravelry.com/yarns/library/wool-candy-biscotti-merino"
+            }
+         ],
+         "name":"Mila Beret",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/mila",
+         "madeFor":"My Mom",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/47811084/Mila_Blocking_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/47811084/Mila_Blocking_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Decided to make the first one for my toddler rather than baby #3. If I have enough yarn leftover (and like the pattern), I might make a matching one for the baby?</p>\n\n<p>Bought pattern on 10/3/11. DK Gauge 22 stitches and 30 rows/ 4 inches. Holding the yarn double.</p>\n\n<p>Want to flare out - short rows? - at 9.5 inches from top of shoulder and a total length of 12 inches?</p>\n\n<p>Top shoulder thru garter stitch - 6 inches <br />Owl repeat each - 2.75 inches</p>\n\n<p>Oct 16th at 10:30 p.m. - total length 8.75 inches <br />Garter plus one owl</p>\n\n<p>Added short row during round 7 of second owl, complete width of back.</p>\n\n<p>Round 11 completed. Need to start new skein of yarn.</p>\n\n<p>Oct. 24 - back to working on this project after a break for a baby gift hat.</p>\n\n<p>On round 12 and 17 of second owl, begin short row.</p>\n\n<p>Cast off on Oct. 25, 2011. Loving the fit. Let&#8217;s see after I wash it&#8230; but I&#8217;m really glad I did short rows plus one extra ridge at the bottom. Hope I weave the ends in soon rather than procrastinate.</p>",
+         "started":"2011-10-12",
+         "permalink":"milo",
+         "status":"in-progress",
+         "progress":100,
+         "happiness":4,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/georgie-hallam",
+               "name":"Georgie Hallam"
+            },
+            "url":"http://www.ravelry.com/patterns/library/milo-3",
+            "name":"Milo"
+         },
+         "completed":"2011-10-26",
+         "needles":[
+            {
+               "metric":3.75,
+               "us":"5 ",
+               "name":"US 5  - 3.75 mm"
+            },
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            }
+         ],
+         "comments":0,
+         "size":"3T",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Toddler's Milo",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/milo",
+         "madeFor":"My Toddler",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78788628/IMG_20111025_131554_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78788628/IMG_20111025_131554_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Made from a half skein of sock yarn. I had enough leftover to use in my Newborn Baby Surprise Jacket, and I still have a little left.</p>\n\n<p>Great pattern. I used DPNs. Have to be careful which surfaces the toddler wears the socks on since they can be slippery (for a toddler). So sadly the socks have not gotten as much use as I had hoped. I&#8217;ll still consider making more at a later time. It was great to be able to modify to accommodate for wider feet.</p>",
+         "started":"2011-06-01",
+         "permalink":"oh-baby",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/anne-hanson",
+               "name":"Anne Hanson"
+            },
+            "url":"http://www.ravelry.com/patterns/library/oh-baby",
+            "name":"oh, Baby"
+         },
+         "completed":"2011-06-01",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Toddler Socks",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/oh-baby",
+         "madeFor":"My Toddler",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78693103/IMG_20111024_173956_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78693103/IMG_20111024_173956_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>These were started a while ago and then stopped. (lack of time/injury)</p>\n\n<p>Cost of Pattern: $ <br />Cost of Yarn: $ <br />Cost of Needles: $ <br />Cost of markers and stitch holders: $</p>\n\n<p>Skill(s) Learned: Knitting in the Round on circulars</p>\n\n<p>Updates: <br />October 26, 2010 <br />Last night I completed one of the legs. This morning I started on the hem. I&#8217;m doing it in the blue I used at the waistline to add some color. In a few more rounds, I expect to cast off. First I want to measure it against the recipient&#8217;s leg to make sure I shouldn&#8217;t add an extra row or two. The leg actually progressed much faster after I switched to DPNs (bamboo) rather than continuing with the very short circulars. I hope to add a new picture in the next couple of days.</p>\n\n<p>October 29, 2010 <br />I&#8217;ve been working hard since my baby outgrew her other wool soaker I had knit. I&#8217;m now halfway down the orange/autumn color of the 2nd leg. At this point, I honestly prefer DPNs over a small circular. Hopefully all of this &#8220;practice&#8221; will help on the fingerless glove class I&#8217;m taking in November. I&#8217;m really happy with how the pants are progressing.</p>\n\n<p>October 31, 2010 <br />I finished the second leg last night with hem. Now I just have to learn the kitchener stitch for the crotch. In the meantime I started the three stitch i-cord this morning. (First time for that too)</p>\n\n<p>November 1, 2010 <br />I technically finished the crotch, but I&#8217;m not pleased. I have not woven in the tails. I&#8217;m thinking about pulling out the kitchener, if I could safely recover my stitches to try a different bind-off. In the meantime the 3 stitch Icord is a little over once the waist circumference. I&#8217;m supposed to make it larger, but I&#8217;m a bit skeptical of the length given in the directions. I had hoped to wash and lanolize the cover today, but I think it will have to wait another day until I decide how to address the issues. I spent so much time knitting this that I don&#8217;t want to be unhappy with it just because of how the crotch area looks.</p>\n\n<p>November 28, 2010 <br />I finally took out the grafting at the crotch. I did a three needle bind off (seam to outside for comfort), and I&#8217;m much happier. I also wove in the ends. Now I just need to lanolize and update some of my notes on the project. Pretty much it&#8217;s been sitting in my to-do basket for a month and that shamed me into finishing it today.</p>",
+         "started":"2010-08-01",
+         "permalink":"picky-pants",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/theresa-belville",
+               "name":"Theresa Belville"
+            },
+            "url":"http://www.ravelry.com/patterns/library/picky-pants",
+            "name":"Picky Pants"
+         },
+         "completed":"2010-11-28",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":"toddler",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Wool Soaker",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/picky-pants",
+         "madeFor":"my baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46297072/Longies_front_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46297072/Longies_front_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Will I have enough of the coordinating color since I&#8217;m making the newborn size&#8230;.. 12 yards&#8230;.</p>\n\n<p>Finished color work&#8230;. only 2 grams left of blueberry. I think the food scale is not quite as accurate as I&#8217;d like&#8230;.</p>\n\n<p>25 grams of wheatberry left&#8230;.</p>\n\n<p>Must weave in ends.</p>",
+         "started":"2011-10-09",
+         "permalink":"rhythm-hat",
+         "status":"in-progress",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/rhythm-hat",
+            "name":"Rhythm Hat"
+         },
+         "completed":"2011-10-26",
+         "needles":[
+            {
+               "metric":2.75,
+               "us":"2 ",
+               "name":"US 2  - 2.75 mm"
+            },
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":"newborn, 0-3 month",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            },
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Rhythm Baby Hat",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/rhythm-hat",
+         "madeFor":"baby #3",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/77140361/IMG_20111010_125830_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/77140361/IMG_20111010_125830_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Made larger size per husband&#8217;s request even though baby was just born.</p>\n\n<p>I prefer the smaller white and blue one I made&#8230;. but I think I&#8217;m biased. :-)</p>\n\n<p>As of October 23, 2011, all photos are of the hat unwashed and not blocked. I will finish that before sending the gift.</p>",
+         "started":"2011-10-16",
+         "permalink":"rhythm-hat-2",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/rhythm-hat",
+            "name":"Rhythm Hat"
+         },
+         "completed":"2011-10-23",
+         "needles":[
+            {
+               "metric":2.75,
+               "us":"2 ",
+               "name":"US 2  - 2.75 mm"
+            },
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":"3-6 month",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            },
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"girl rhythm baby hat",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/rhythm-hat-2",
+         "madeFor":"husband's co-worker's 1st baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78592611/IMG_20111023_212512_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/78592611/IMG_20111023_212512_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Started and Finished before joining Ravelry</p>\n\n<p>Opted not to use buttons for safety reasons. Instead I use a snappi to fasten it, but then ensure clothing is over top of the wrap and securely fastened.</p>\n\n<p>Cost of Pattern: $ <br />Cost of Yarn: $ <br />Cost of Needles: $</p>\n\n<p>Skill(s) Learned: Ribbing</p>",
+         "started":"2010-08-01",
+         "permalink":"ribby-wrap",
+         "status":"finished",
+         "progress":0,
+         "happiness":null,
+         "favorited":1,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/theresa-belville",
+               "name":"Theresa Belville"
+            },
+            "url":"http://www.ravelry.com/patterns/library/ribby-wrap",
+            "name":"Ribby Wrap"
+         },
+         "completed":"2010-08-01",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Ribby Wool Soaker",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/ribby-wrap",
+         "madeFor":"my baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41714625/Ribby_Wool_Soaker_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/41714625/Ribby_Wool_Soaker_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Pictures 1 and 2 from February 13, 2011.</p>\n\n<p>Already bought online magazine subscription.</p>\n\n<p>Using KnitPicks Palette (From a project I decided not to do) and HazelKnits Artisan Sock Yarn.</p>\n\n<p>February 5, 2011 <br />I finished almost 8&#8221; last night and one rose. I&#8217;m not entirely happy with how I did the rose; so I&#8217;ll keep refolding it. I may have made a mistake as I was interrupted a couple of times when knitting it.</p>\n\n<p>February 13, 2011 <br />I finally took a couple of pictures. I have not worked on this project for several days. I have 1 more rose to complete and then the leaves. You could definitely finish the project over a weekend without interruptions. I&#8217;m just have alot of interruptions lately. :)</p>",
+         "started":"2011-02-04",
+         "permalink":"roses-are-red",
+         "status":"in-progress",
+         "progress":40,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/alana-dakos",
+               "name":"Alana Dakos"
+            },
+            "url":"http://www.ravelry.com/patterns/library/roses-are-red-4",
+            "name":"Roses Are Red"
+         },
+         "completed":null,
+         "needles":[
+            {
+               "metric":2.25,
+               "us":"1 ",
+               "name":"US 1  - 2.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":"Child",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"Springtime Roses",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/roses-are-red",
+         "madeFor":"My Toddler",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/54355236/Headband_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/54355236/Headband_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Impression: I will probably try making this in a smaller size, but I did not like how it fits my toddler. It might be used later, but currently it really does not get worn. :( I also did not care for how the edging looks along the bottom. More experience with picking up stitches might help. I would also extend the amount of border to help prevent curling. Currently trying out another pattern that incorporates the border.</p>\n\n<p>I just took a look at the pattern&#8230; They do have an 18-24 month size; so I&#8217;d really like to make this for my daughter. Though they estimate that you need 430 yards, and I only have 420 yards&#8230;</p>\n\n<p>January 26, 2011</p>\n\n<p>I cast on January 20th and knitted only a row or two. It was mainly to release some frustration from a slow moving fingering weight project (Baby Twinkle Sweater). Afterwards I set it aside. Currently I&#8217;ve picked up my first pair of socks project again; so I do not expect to make any progress on this until February.</p>\n\n<p>February 13, 2011</p>\n\n<p>I&#8217;m finally starting to work on this project again. I&#8217;ve knitted it for a couple of days. The progress is slow as you really have the most stitches (and keep adding more) at the beginning of the project. I&#8217;ll feel like I&#8217;m maing more progress when I divide for the sleeves.</p>",
+         "started":"2011-01-20",
+         "permalink":"seamless-infant-kimono",
+         "status":"finished",
+         "progress":100,
+         "happiness":1,
+         "favorited":1,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/carina-spencer",
+               "name":"Carina Spencer"
+            },
+            "url":"http://www.ravelry.com/patterns/library/seamless-kimono-infant--toddler-sizing",
+            "name":"Seamless Kimono (Infant + Toddler Sizing)"
+         },
+         "completed":"2011-05-30",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":"18-24 month",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"madelinetosh",
+               "name":"tosh merino",
+               "url":"http://www.ravelry.com/yarns/library/madelinetosh-tosh-merino"
+            }
+         ],
+         "name":"Toddler Kimono",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/seamless-infant-kimono",
+         "madeFor":"my baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76380910/IMG_20111003_101912_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76380910/IMG_20111003_101912_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>December 8, 2010</p>\n\n<p>I need to check my gauge for this yarn on size 9 (U.S.) needles. I would like to start the actual project this weekend.</p>\n\n<p>U.S. size 7 and 6 give me 19 stitches per 4&#8221;. Much closer than 15 stitches for U.S. size 9.</p>\n\n<p>December 16, 2010</p>\n\n<p>Last evening, I finished the knitting. Now I just need to weave in the ends, wash and block it&#8230; and then for the utmost in procrastination part&#8230; sew on the buttons&#8230; I wonder if I have matching thread&#8230;</p>\n\n<p>December 21, 2010</p>\n\n<p>The cowl was finally dry enough to sew the buttons on last night. The sewing went much faster since these buttons have only two holes&#8230; I may try to stick to that kind for knitting in the future. I really enjoyed the pattern. However, I found out that I am sensitive to Alpaca; so I&#8217;ll be avoiding it in the future (if possible). Fortunately, my mom has no known issues with wool, etc; so it should work for her.</p>",
+         "started":"2010-12-08",
+         "permalink":"shawl-collared-cowl",
+         "status":"finished",
+         "progress":100,
+         "happiness":4,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/alana-dakos",
+               "name":"Alana Dakos"
+            },
+            "url":"http://www.ravelry.com/patterns/library/shawl-collared-cowl",
+            "name":"Shawl Collared Cowl"
+         },
+         "completed":"2010-12-20",
+         "needles":[
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            },
+            {
+               "metric":4.5,
+               "us":"7 ",
+               "name":"US 7  - 4.5 mm"
+            }
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Misti Alpaca",
+               "name":"Chunky ",
+               "url":"http://www.ravelry.com/yarns/library/misti-alpaca-chunky"
+            }
+         ],
+         "name":"Shawl Collared Cowl",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/shawl-collared-cowl",
+         "madeFor":"My Mom",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/48233808/Final_cowl_3_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/48233808/Final_cowl_3_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>To match the Baby Surprise Jacket.</p>\n\n<p>S2SK is my nemesis. CYO is fun after you figure it out. Messed up the first round of it, but not badly. The other rounds worked out nicely.</p>",
+         "started":"2011-09-28",
+         "permalink":"sprout-hat",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/sprout-hat",
+            "name":"Sprout Hat"
+         },
+         "completed":"2011-09-28",
+         "needles":[
+            {
+               "metric":2.75,
+               "us":"2 ",
+               "name":"US 2  - 2.75 mm"
+            },
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":"0-3 month",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Sprout baby hat",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/sprout-hat",
+         "madeFor":"Baby #3",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75906449/IMG_20110928_222337_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/75906449/IMG_20110928_222337_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":null,
+         "started":null,
+         "permalink":"tkga-swatch-to-sweater",
+         "status":"in-progress",
+         "progress":0,
+         "happiness":null,
+         "favorited":1,
+         "pattern":null,
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"TKGA Swatch to Sweater",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/tkga-swatch-to-sweater",
+         "madeFor":null,
+         "thumbnail":null
+      },
+      {
+         "notes":null,
+         "started":null,
+         "permalink":"tkga-basics-basics-basics",
+         "status":"in-progress",
+         "progress":0,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/the-knitting-guild-association",
+               "name":"The Knitting Guild Association"
+            },
+            "url":"http://www.ravelry.com/patterns/library/tkga-basics-basics-basics",
+            "name":"TKGA Basics Basics Basics"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"TKGA Basics Basics Basics",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/tkga-basics-basics-basics",
+         "madeFor":null,
+         "thumbnail":null
+      },
+      {
+         "notes":null,
+         "started":null,
+         "permalink":"tkga-master-hand-level-i",
+         "status":"in-progress",
+         "progress":0,
+         "happiness":null,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/the-knitting-guild-association",
+               "name":"The Knitting Guild Association"
+            },
+            "url":"http://www.ravelry.com/patterns/library/tkga-master-hand-level-1",
+            "name":"TKGA Master Hand Level 1"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"TKGA Master Hand Level 1",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/tkga-master-hand-level-i",
+         "madeFor":null,
+         "thumbnail":null
+      },
+      {
+         "notes":"<p>Dropped the class due to health reasons.</p>\n\n<p>However I hope at a later time to work through the class material on my own.</p>",
+         "started":null,
+         "permalink":"tkga-professional-finishing-course",
+         "status":"hibernating",
+         "progress":0,
+         "happiness":1,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/the-knitting-guild-association",
+               "name":"The Knitting Guild Association"
+            },
+            "url":"http://www.ravelry.com/patterns/library/tkga-professional-finishing-course",
+            "name":"TKGA Professional Finishing Course"
+         },
+         "completed":null,
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+
+         ],
+         "name":"TKGA Professional Finishing Techniques",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/tkga-professional-finishing-course",
+         "madeFor":null,
+         "thumbnail":null
+      },
+      {
+         "notes":"<p>Note: The ends were woven in on February 2, 2011. At a later date I will add a type of closure, but at this point I consider it completed. Pre-Blocking photos: Pictures 1-3 taken on February 2, 2011. Picture 4 taken on February 1, 2011. Last three pictures from January 26, 2011.</p>\n\n<p>January 18, 2011</p>\n\n<p>I almost made it through row 7 in the class. However, I really did not like how tight the fabric was (with gauge). I opted to re-cast on last night. I am now through row 10. I was a little nervous about it being too loose this time, but I&#8217;m liking the drape of it more and more. I&#8217;ve moved up to a US 3, and purposely not knitting tight.</p>\n\n<p>January 24, 2011</p>\n\n<p>I&#8217;ve been working on it every day since casting on again. It&#8217;s going well, but it is slow work at times. When I was getting towards the end of the yoke, it seemed like I would never finish it. (Looks great, but if I didn&#8217;t have the class, I&#8217;d probably work on a different project and put it in the hibernate pile&#8230; a reflection on my patience levels NOT on the great pattern ) Once I pushed onto separating the sleeves, I felt much happier. At this point I had finished the &#8220;homework&#8221; for the next class, but I really want/need assistance and practice on picking up stitches for sleeves, etc; so I&#8217;m attempting to get the entire body of the sweater finished before the January 30th class. Last night I made it to 6.5 cm out of the 12 cm, and then I&#8217;ll just need some garter stitch bordering. I&#8217;m wearing out. A rough estimate (based on number of stitches and rows), I&#8217;ve completed about 14,000 stitches. Yeah, that&#8217;s alot. But it looks great; so&#8230; I&#8217;m going to keep pushing on. I just need to hit another motivational part to keep going. (That or alot of caffeine) I am concerned that I may run out of yarn, and if I buy another skein then&#8230; I eliminated the benefit of using this as a &#8220;use up stash&#8221; project. :(</p>\n\n<p>January 25, 2011</p>\n\n<p>By this morning I was at about 11.75 cm out of 12 cm. Since I would like to end on a WS row before beginning 9 rows of garter stitch, I&#8217;ll need to complete 2 more rows. It took a late night and big push to get to this point.</p>\n\n<p>January 26, 2011</p>\n\n<p>I finished the cast off (purlwise and loosely) yesterday evening. Uploading pictures shortly. It looks even better in person. :) Now I just have to keep from starting the sleeves&#8230;. might need to have the husband hide it from me. In the meantime, I&#8217;m going back to my first pair of socks that I paused when I started the Baby Surprise Jacket and then this project. Slight issue: I&#8217;m using both sets of U.S. size 3 DPNs for my socks&#8230;</p>\n\n<p>February 2, 2011</p>\n\n<h1 id='i_have_been_working_on_this_sweater_since_the_second_and_last_part_of_the_class_on_sunday_jan_30_in_class_i_confirmed_that_i_was_picking_up_stitches_correctly_after_i_finished_a_few_rounds_on_dpns_i_learned_how_to_use_magic_loop_however_i_started_to_have_ladders_so_i_ripped_it_back_that_night_i_started_again_using_dpns_i_finished_the_first_sleeve_46_rounds_plus_9_garter_and_1_purlwise_loose_cast_off_late_monday_night_i_also_picked_up_the_stitches_for_the_next_sleeve_in_the_early_hours_of_feb_1st_i_finished_the_second_sleeve_today_i_have_weaved_in_every_end_except_for_at_the_place_where_i_started_the_sleeves_i_started_both_sleeves_with_the_new_skein_of_yarn_i_also_picked_up_between_1213_stitches_rather_than_8_but_i_reduced_those_quickly_with_k2tog'>I have been working on this sweater since the second and last part of the class on Sunday (Jan. 30). In class, I confirmed that I was picking up stitches correctly. After I finished a few rounds on DPNs, I learned how to use magic loop. However, I started to have ladders; so I ripped it back that night. I started again using DPNs. I finished the first sleeve (46 rounds plus 9 garter and 1 purlwise loose cast off) late Monday night. I also picked up the stitches for the next sleeve in the early hours of Feb. 1st. I finished the second sleeve today. I have weaved in every end except for at the place where I started the sleeves. I started both sleeves with the new skein of yarn. I also picked up between 12-13 stitches rather than 8, but I reduced those quickly with K2tog.</h1>\n\n<p>Random Notes before beginning project:</p>\n\n<p>Just saw it at Bobbin&#8217;s Nest. Looks even better in person!</p>\n\n<p>The class is on Sunday January 16th and 30th. I&#8217;m hoping that means it will be done the end of January&#8230;</p>\n\n<p>This is another project to help use up my growing stash.</p>",
+         "started":"2011-01-16",
+         "permalink":"twinkle-vintage-baby-cardigan",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":2,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/guro",
+               "name":"Guro"
+            },
+            "url":"http://www.ravelry.com/patterns/library/twinkle-vintage-baby-cardigan",
+            "name":"Twinkle, vintage baby cardigan"
+         },
+         "completed":"2011-02-02",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Baby Cardigan Class",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/twinkle-vintage-baby-cardigan",
+         "madeFor":"future baby?",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53123038/TwinkleBabySweater_F1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/53123038/TwinkleBabySweater_F1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>This was the second attempt at this pattern. The first one is being set aside until a later time. (The cable stitches weren&#8217;t elevated.) This one I completed correctly. I&#8217;m very pleased with how it turned out though I did forget to switch from size 2 to size 3 needles immediately after the ribbing. Now I&#8217;m hoping to knit my first pair of baby booties out of the same yarn before giving the gift to my friend.</p>",
+         "started":"2010-11-09",
+         "permalink":"twist-hat-2",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/twist-hat-2",
+            "name":"Twist Hat"
+         },
+         "completed":"2010-11-15",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":"newborn",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Newborn Twist Cap",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/twist-hat-2",
+         "madeFor":"Friend's 2nd baby",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/45295485/twist_cap_completed_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/45295485/twist_cap_completed_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>November 28, 2010</p>\n\n<p>I&#8217;ll add the details later. Well I intended to add the details later, but the reality is that I have forgotten any specifics on the project.</p>\n\n<p>I&#8217;ll consider making this hat for Baby #3 if I have time.</p>",
+         "started":"2010-11-01",
+         "permalink":"twist-hat-3",
+         "status":"finished",
+         "progress":100,
+         "happiness":4,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/twist-hat-2",
+            "name":"Twist Hat"
+         },
+         "completed":"2010-11-01",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":null,
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Huckleberry Knits",
+               "name":"Hazelnut fingering",
+               "url":"http://www.ravelry.com/yarns/library/huckleberry-knits-hazelnut-fingering"
+            }
+         ],
+         "name":"Baby Boy Twist Hat",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/twist-hat-3",
+         "madeFor":null,
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46297514/Baby_Boy_twist_hat_1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46297514/Baby_Boy_twist_hat_1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>On Tuesday I saw a sample knitted up at Bobbin&#8217;s Nest. It was absolutely precious. I opted to buy the pattern and yarn separately rather than the kit. (I want the option to do matching booties)</p>\n\n<p>November 5, 2010 <br />I cast on. This is the first real time working with such small needles and fine yarn. It was challenging, but after a few rows, I felt better about my progress. I did opt to cast on with DPNs. I already finished the ribbing. Once I see how the cap turns out, I&#8217;ll decide who the recipient might be&#8230;</p>\n\n<p>Rather than letting it just sit there, I opted to frog it and use the yarn for other purposes.</p>",
+         "started":"2010-11-05",
+         "permalink":"twist-hat",
+         "status":"frogged",
+         "progress":30,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/melissa-j-goodale",
+               "name":"Melissa J. Goodale"
+            },
+            "url":"http://www.ravelry.com/patterns/library/twist-hat-2",
+            "name":"Twist Hat"
+         },
+         "completed":null,
+         "needles":[
+            {
+               "metric":2.75,
+               "us":"2 ",
+               "name":"US 2  - 2.75 mm"
+            },
+            {
+               "metric":3.25,
+               "us":"3 ",
+               "name":"US 3  - 3.25 mm"
+            }
+         ],
+         "comments":0,
+         "size":"0-3 month",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Hazel Knits",
+               "name":"Artisan Sock",
+               "url":"http://www.ravelry.com/yarns/library/hazel-knits-artisan-sock"
+            }
+         ],
+         "name":"Modified Newborn Twist Cap",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/twist-hat",
+         "madeFor":"A Newborn",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46371152/Modified_Twist_Hat_2-1_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/46371152/Modified_Twist_Hat_2-1_medium.JPG",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Wanted to try a soaker for naptime with my leftover yarn from other projects.</p>",
+         "started":"2011-08-01",
+         "permalink":"vanilla",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/kelly-brooker",
+               "name":"Kelly Brooker"
+            },
+            "url":"http://www.ravelry.com/patterns/library/vanilla-3",
+            "name":"Vanilla"
+         },
+         "completed":"2011-08-01",
+         "needles":[
+            {
+               "metric":3.75,
+               "us":"5 ",
+               "name":"US 5  - 3.75 mm"
+            },
+            {
+               "metric":4.0,
+               "us":"6 ",
+               "name":"US 6  - 4.0 mm"
+            },
+            {
+               "metric":4.5,
+               "us":"7 ",
+               "name":"US 7  - 4.5 mm"
+            }
+         ],
+         "comments":0,
+         "size":"toddler",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"madelinetosh",
+               "name":"tosh merino",
+               "url":"http://www.ravelry.com/yarns/library/madelinetosh-tosh-merino"
+            },
+            {
+               "brand":"madelinetosh",
+               "name":"tosh merino",
+               "url":"http://www.ravelry.com/yarns/library/madelinetosh-tosh-merino"
+            }
+         ],
+         "name":"Vanilla Soaker - Toddler",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/vanilla",
+         "madeFor":"My Toddler",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76626437/IMG_20110823_215256_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/76626437/IMG_20110823_215256_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>I had everything done except the last cuff before February baby arrived&#8230;.now said baby is almost 4 months old, and I just picked it up yesterday.</p>\n\n<p>I&#8217;m guessing I started it in December. I&#8217;ll correct it later.</p>\n\n<p>I did have to hold the yarn double to get gauge. Not happy over that as I had wanted to make longies&#8230;.</p>\n\n<p>I&#8217;ll be trying them on baby before lanolizing. I have my doubts it will fit him. :-(</p>",
+         "started":"2011-12-01",
+         "permalink":"vanilla-3",
+         "status":"finished",
+         "progress":0,
+         "happiness":3,
+         "favorited":0,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/kelly-brooker",
+               "name":"Kelly Brooker"
+            },
+            "url":"http://www.ravelry.com/patterns/library/vanilla-3",
+            "name":"Vanilla"
+         },
+         "completed":"2012-06-04",
+         "needles":[
+
+         ],
+         "comments":0,
+         "size":"newborn",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Jade Sapphire",
+               "name":"Mongolian Cashmere 4-ply",
+               "url":"http://www.ravelry.com/yarns/library/jade-sapphire-mongolian-cashmere-4-ply"
+            }
+         ],
+         "name":"vanilla soaker - newborn",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/vanilla-3",
+         "madeFor":"baby #3",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/106569505/IMG_20120604_110744_square.jpg",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/106569505/IMG_20120604_110744_medium.jpg",
+            "flickrUrl":"#"
+         }
+      },
+      {
+         "notes":"<p>Update on December 21, 2010</p>\n\n<p>The buttons were finally sewn on late last week.</p>\n\n<p>December 5, 2010 <br />Just need to sew on the last Buttons&#8230; procrastinating horribly.</p>\n\n<p>Other Notes: <br />The class was canceled since I was the only one to sign up. However, I bought the pattern and decided to proceed on my own. I already have one glove completed (other than buttons). I ripped the first one out a couple of times, and I second the opinion on the class notes&#8230; use Size 4 and 5 DPNs NOT size 5 and 6 as recommended in the pattern.<br />It only took about 2 days of knitting to complete the first glove. (Probably 6-7 hours total) I cast on 42 stitches; so that it will be for a 7 1/2&#8221; palm size. I also made the length longer as I wanted the lower knuckles covered. I had also added 3 even rows on the thumb part. (I tried this on when I was knitting)</p>\n\n<p>November 23, 2010 <br />I&#8217;ve already started the second glove and I&#8217;m past the welted cuff.</p>\n\n<p>November 24, 2010 <br />Around 6 pm I finished the second glove including weaving in the ends. Now I just need to wash and dry them. Then I&#8217;ll see if I find a nice style of button to go on them&#8230; I&#8217;ll upload pictures in the next couple of days.</p>\n\n<p>November 27, 2010 <br />Bought 8 buttons to sew on the cuffs.</p>\n\n<p>November 28, 2010 <br />I managed to only sew one button on each glove. Actually, I did sew a second one on it, but then I needed to rip it off. It looks like this will be one of those very slow finishes to a project, but I want it to look great.</p>\n\n<p>Original Info: <br />This is a project for the class at Bobbin&#8217;s Nest Studio.</p>\n\n<p>The same yarn will also be used for the Mila Beret class at Bobbin&#8217;s Nest Studio. It should be enough for both projects&#8230; I better try not to knit too tight. I&#8217;m going to have a hard time waiting for the class to begin. I saw the sample of these gloves in the store, and they look amazing!!!! (Different color than I chose, but if the pattern is fun and relatively quick, I may make another pair.)</p>",
+         "started":"2010-11-07",
+         "permalink":"welted-fingerless-gloves",
+         "status":"finished",
+         "progress":100,
+         "happiness":3,
+         "favorited":1,
+         "pattern":{
+            "designer":{
+               "url":"http://www.ravelry.com/designers/churchmouse-yarns-and-teas",
+               "name":"Churchmouse Yarns and Teas"
+            },
+            "url":"http://www.ravelry.com/patterns/library/welted-fingerless-gloves",
+            "name":"Welted Fingerless Gloves"
+         },
+         "completed":"2010-12-16",
+         "needles":[
+            {
+               "metric":3.5,
+               "us":"4 ",
+               "name":"US 4  - 3.5 mm"
+            },
+            {
+               "metric":3.75,
+               "us":"5 ",
+               "name":"US 5  - 3.75 mm"
+            }
+         ],
+         "comments":0,
+         "size":"7 1/2\" palm",
+         "blogPosts":[
+
+         ],
+         "yarns":[
+            {
+               "brand":"Wool Candy",
+               "name":"Biscotti Merino ",
+               "url":"http://www.ravelry.com/yarns/library/wool-candy-biscotti-merino"
+            }
+         ],
+         "name":"Welted Fingerless Gloves",
+         "url":"http://www.ravelry.com/projects/babyknitcrochet/welted-fingerless-gloves",
+         "madeFor":"My Mom",
+         "thumbnail":{
+            "src":"http://images4.ravelrycache.com/uploads/babyknitcrochet/48233455/Final_welted_gloves_square.JPG",
+            "medium":"http://images4.ravelrycache.com/uploads/babyknitcrochet/48233455/Final_welted_gloves_medium.JPG",
+            "flickrUrl":"#"
+         }
+      }
+   ]
+}
